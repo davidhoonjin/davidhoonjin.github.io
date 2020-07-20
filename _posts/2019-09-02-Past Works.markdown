@@ -13,4 +13,4 @@ categories: update
 </div>
 <dr>
 
-LU LAB
+LU Research Group Undergraduate Research Assistant
