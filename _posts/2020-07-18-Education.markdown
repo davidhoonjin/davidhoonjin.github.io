@@ -35,3 +35,35 @@ title: <font size="7em"> EDUCATION </font>
 <br>
 <br>
 <br>
+<font size="7em"><b>
+Language Skills
+</b></font>
+<table style="width:100%">
+  <tr>
+
+    <th> </th>
+    <th>Level</th>
+    <th>Official Test Score</th>
+    <th>Score Expiring Date</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>Fluent</td>
+    <td><a href="/images/fulls/TOEFL.jpg" ><font size="6.5em"><u><b>TOEFL : 103(R:25,L:30,S:24,W:24)<br> Best - 111(R:27,L:30,S:30,W:24)</b></u></font></a></td>
+    <td>April/10/2022</td>
+  </tr>
+  <tr>
+    <td>Korean</td>
+    <td>Native</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Chinese</td>
+    <td>Fair</td>
+    <td>HSK : Level 4</td>
+    <td>Feb/11/2020</td>
+  </tr>  
+</table>
+<br>
+<br>
