@@ -25,6 +25,7 @@ LU Research Group Undergraduate Research Assistant <br>
 <br><br>
 <br><br>
 <br><br>
+<b><font size="7em"> LAB EXPERIENCE </font></b><br>
 <font size="6em"><b>
 Nano Bio Technology(NBT) LAB Winter Internship  <br>
 </b></font> <font size="6em"> Jan,2019 – Feb,2019 (Hanyang University, Republic of Korea)
