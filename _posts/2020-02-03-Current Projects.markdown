@@ -12,8 +12,13 @@ Computational Neuro Engineering(CoNE) LAB <br>
 <font size="6em"><b>
 <u>"BCI As an Emotional Assistant"</u> (Feb,2020 ~ )
 </b></font><br>
+A system that measures bio-signals(EEG, PPG, GSR) to classify the user's emotional state. If it's classified below certain threshold, give a proper feedback to bring the user's emotion back to the desired status.
 </head>
-Target Journal :  <br>
+
+
+
+
+<br>
 Expected submission date : Dec, 2020 <br>
 Coming soon...
 
@@ -22,14 +27,15 @@ Coming soon...
 <img src="/images/fulls/03.jpg" class="image-img" width="300"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accuracy over 80%
 <font size="5em">
-Measure bio-signals to classify the user's emotional state. If it's classified below certain threshold, give a proper feedback to bring the emotion back to the desired status.
+Currently accuracy of emotion classification is over 80%, and still working on improving the model. On-line experiment is planned to be held on September.
 <br><br>
 <br>
 
 <b>Throughout the Project...</b> <br>
 Developed Matlab function :<br>
 1. <a href="/images/GSR_feature.m">Click here to download GSR feature extraction Matlab code</a><br><br>
-Future project idea : &nbsp;&nbsp; "(Secret) with Machine Learning"<br>
+Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG with Machine Learning"<br>
+-Motivaation : "Automated EEG artifact elimination by applying machine learning algorithms to ICA-based features" only used ICA-based feature. If PCA and Regression based features are considered, accuracy can be improved.
 </font>
 <br>
 <br>
