@@ -8,9 +8,9 @@ title: <font size="7em"> RESEARCH &nbsp;INTEREST </font>
 <img src="/images/fulls/14.jpg" class="image-img" width="300" height="300"> <br>
 
 <font size="6em">
-HUMAN COMPUTER INTERACTION and BRAIN COMPUTER INTERFACE using MACHINE LEARNING.<br></font>
+HUMAN COMPUTER INTERACTION and WEARABLE COMPUTING using MACHINE LEARNING.<br></font>
 <font size="5em">
- When I read "The Giving Tree" by Shel Silverstein, I thought 'If I can build a "tree" that can interact with a human being and give benefit to them, it will be the whole village that can be happy, not just a "boy".' Ever since, I was certain that it is a machine that interacts with us which makes our life better. <b><u>I am interested in DEVELOPING A SYSTEM THAT SUPPORTS DIRECT INTERACTION BETWEEN HUMAN(ESPECIALLY BRAIN) AND COMPUTER. With verifying inner and outer activity of the body through machine learning and AI.</u></b>
+<b><u>I am interested in DEVELOPING AN INNOVATIVE SYSTEM THAT SUPPORTS DIRECT INTERACTION BETWEEN HUMAN(INCLUDING BRAIN) AND COMPUTER. Sensing and interacting with inner and outer activity of the body to enhance our wellbeing.</u></b>
 </font>
 
 
