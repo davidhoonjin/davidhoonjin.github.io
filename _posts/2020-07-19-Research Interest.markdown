@@ -9,7 +9,7 @@ title: <font size="7em"> RESEARCH &nbsp;INTEREST </font>
 
 <font size="6em">
 HUMAN COMPUTER INTERACTION and WEARABLE COMPUTING using MACHINE LEARNING.<br></font>
-<font size="5em">
+<font size="5em">"To Make The World a Better Place" is my ultimate goal as a researcher.
 <b><u>I am interested in DEVELOPING AN INNOVATIVE SYSTEM THAT SUPPORTS DIRECT INTERACTION BETWEEN HUMAN(INCLUDING BRAIN) AND COMPUTER. Sensing and interacting with inner and outer activity of the body to enhance our wellbeing.</u></b>
 </font>
 
