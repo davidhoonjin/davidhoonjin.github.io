@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="7em"> <font style="color:Tomato;"> ABOUT ME (NONACADEMIC) </font></font>
+title: <font size="7em"> <font style="color:Dodgerblue;"> ABOUT ME (NONACADEMIC) </font></font>
 categories: update
 ---
 <img src="/images/fulls/TRC.jpg" class="image-img" width="600" height="450">
@@ -10,15 +10,15 @@ categories: update
 
 
 
-<h><font size="6em"><b>
+<h><font size="6em" style="color:black;">
 President and Founder of HYRC(Hanyang Rock Climbing club) <br>
-</b></font> <font size="6em"> Mar,2020 – (Hanyang University, Republic of Korea)
+</font> <font size="5em"> Hanyang University (Mar,2020 – )
 </font><br><br></h>
 <div style="float:left;">
 <img src="/images/fulls/HYRC.jpg" class="image-img" width="250" height="250">
 </div>
 
-<font size="5em">
+<font size="5em" style="color:black;">
 • Passionate, but Safe Climber
 </font>
 <br><br><br><br><br><br><br><br>
