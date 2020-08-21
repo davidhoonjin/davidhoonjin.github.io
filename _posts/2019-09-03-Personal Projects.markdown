@@ -1,13 +1,31 @@
 ---
 layout: post
-title: <font size="7em"> PERSONAL PROJECTS </font>
+title: <font size="7em"> <font style="color:Tomato;">PERSONAL PROJECTS </font></font>
 categories: update
 ---
-<h>
-<font size="6em"><b>
-VLSI (Course Project) <br>
-</b></font> <font size="6em"> Aug,2019 – Dec,2019 (University of Texas at Austin)
-</font><br><br></h>
+<br><font size="6em"><b>
+●CAPTCHA PROJECT  <br>
+</b></font> <font size="4em"> AUG,2020 - Ongoing </font>
+<br><font size="6em"><b>●VLSI (EE 460R Course Project) <br>
+</b></font> <font size="4em"> Aug,2019 – Dec,2019 (University of Texas at Austin)
+</font><br>
+<hr style="height:3px">
+<hr style="height:3px">
+<br>
+
+
+
+
+
+
+
+
+<br>
+<h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em"><b>
+VLSI (EE 460R)Course Project </b></font></h1>
+<div style="float:right;"><font size="5em"> University of Texas at Austin (Aug,2019 – Dec,2019)
+</font></div>
+<br><br>
 
 <font size="5em"><b>
 <u>"SSP(Synchronous Serial Port) Design” with Verilog</u><br></b></font>
@@ -49,14 +67,18 @@ Kogge-Stone Adder</font><br>
 <img src="/images/fulls/VLSI1.jpg" class="image-img" width="500" height="300">
 <br>
 Schematic ↑ <br>
+<hr style="height:3px">
 
-
-<br><br><br>
-<br><br><br>
-
-<font size="6em"><b>
-CAPTCHA PROJECT  <br>
-</b></font> <font size="6em"> JUL,2020 - Ongoing <br><br>
-
-Coming Soon...
-</font><br><br>
+<br>
+<br>
+<h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em"><b>
+CAPTCHA PROJECT
+</b></font></h1>
+<div style="float:right;"><font size="5em"> JUL,2020 - Ongoing </font></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr style="height:3px">
+<br>

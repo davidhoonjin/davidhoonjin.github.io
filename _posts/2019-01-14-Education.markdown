@@ -1,12 +1,10 @@
 ---
 layout: post
-title: <font size="7em"> EDUCATION </font>
+title: <font size="7em"> <font style="color:Tomato;"> EDUCATION </font></font>
 ---
 <div style="float:left;">
 <img src="/images/fulls/HYU.jpg" class="image-img" width="360" height="330">
 </div>
-
-
 <h1>Bachelor of Electronic Engineering <br>[Mar,2014 - Feb,2021]</h1>
 <font size="5em"><b>
 ● Bachelor of Biomedical Engineering (2nd Major) <br>
@@ -15,6 +13,9 @@ title: <font size="7em"> EDUCATION </font>
 ● Upper Division GPA : 4.00/4.00 <br>
 ● National Science and Technology Scholarship <br>
 ● The Right Hands Scholarship <br>
+<hr style="height:3px">
+
+
 <br>
 <br>
 <br>
