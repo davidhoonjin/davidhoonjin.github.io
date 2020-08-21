@@ -13,39 +13,9 @@ layout: default
     </section>
 
     <footer>
-      <div class="row">
-      {% if page.previous %}
-        <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
-          <header>
-            <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
-          </header>
-          <section>
-            {{ page.previous.excerpt }}
-          </section>
-          <footer>
-            <ul class="actions">
-              <li><a href="{{ page.previous.url }}" class="button">Read More</a></li>
-            </ul>
-          </footer>
-        </article>
-      {% endif %}
-
-      {% if page.next %}
-        <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
-          <header>
-            <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
-          </header>
-          <section>
-            {{ page.next.excerpt | markdownify }}
-          </section>
-          <footer>
-            <ul class="actions">
-              <li><a href="{{ page.next.url }}" class="button">Read More</a></li>
-            </ul>
-          </footer>
-        </article>
-      {% endif %}
-      </div>
+      <a href="{{ site.url }}" i class="fa fa-home"style="font-size:60px;color:Tomato;align:center;"></i>
+        <span class="label"></span>
+      </a>
     </footer>
   </article>
 </div>

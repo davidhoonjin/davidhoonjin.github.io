@@ -10,10 +10,6 @@ categories: update
 </b></font> <font size="4em"> Aug,2019 – Dec,2019 (University of Texas at Austin)
 </font><br>
 <hr style="height:3px">
-<hr style="height:3px">
-<br>
-
-
 
 
 

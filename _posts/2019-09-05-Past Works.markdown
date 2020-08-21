@@ -5,25 +5,21 @@ categories: update
 ---
 <br><font size="6em"><b>
 ● A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals  <br>
-</b></font> <font size="4em"> LU Research Group Undergraduate Research Assistant, University of Texas at Austin (AUG,2019 - Dec,2019) </font><br>
+</b></font> <font size="4em"> LU Research Group Undergraduate Research Assistant, University of Texas at Austin (AUG,2019 - Dec,2019)</font>
 <font size="6em"><b>●Nano electronics device Lab (NDL) Winter Internship <br>
-</b></font> <font size="4em"> Hanyang University (Mar,2019 – Jul,2019)
-</font><br>
-<font size="6em"><b>●Nano Bio Technology(NBT) LAB Winter Internship <br>
-</b></font> <font size="4em"> Hanyang University (Jan,2019 – Feb,2019)
+</b></font> <font size="4em"> Hanyang University (Mar,2019 – Jul,2019)<br>
+</font>
+<font size="6em"><b>
+●Nano Bio Technology(NBT) LAB Winter Internship <br>
+</b></font> <font size="4em"> Hanyang University (Jan,2019 – Feb,2019)<br>
 </font>
 <hr style="height:3px">
-<hr style="height:3px">
+
+
+
+
+
 <br>
-
-
-
-
-
-
-
-
-
 <h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em"><b>
 LU Research Group Undergraduate Research Assistant </b></font></h1>
 <div style="float:right;"><font size="5em"> University of Texas at Austin (Aug,2019 – Dec,2019)

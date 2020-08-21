@@ -3,7 +3,7 @@ layout: post
 title: <font size="7em"><font style="color:Tomato;"> AWARDS AND SCHOLARSHIPS </font></font>
 ---
 <img src="/images/fulls/Awards.jpg" class="fit image">
-
+<hr style="height:3px">
 
 <font size="5em">
 •	National Science & Technology Scholarship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Feb,2014)<br>

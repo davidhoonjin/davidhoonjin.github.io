@@ -5,8 +5,8 @@ categories: update
 ---
 <img src="/images/fulls/TRC.jpg" class="image-img" width="600" height="450">
 <font size="5em"><b><u> ↑ When I was in Texas Rock Climbing Team (Sep,2019 - Dec,2019)</u><br></b></font>
-<br>
-<br>
+<hr style="height:3px">
+
 
 
 

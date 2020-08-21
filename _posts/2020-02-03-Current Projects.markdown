@@ -7,7 +7,7 @@ date: 2020-02-03
 ●<font size="6em"><b><u>BCI As an Emotional Assistant :</u></b></font><font size="6em"><b>A system that classifies the user's emotional state, and give feedback when needed.</b></font> <br>(Feb,2020 ~ )<br>
 ●<font size="6em"><b><u>Sensing Actuator (Silicon Finger with PVDF sensor):</u></b></font><font size="6em"><b>Automated soft actuator</b></font> <br>(Mar,2020 ~)<br>
 <hr style="height:3px">
-<hr style="height:3px">
+
 
 <!-- <p style="background-color:DodgerBlue;"><font size="2em">.</font></p>-->
 

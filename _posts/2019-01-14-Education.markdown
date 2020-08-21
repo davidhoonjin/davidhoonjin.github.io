@@ -2,24 +2,25 @@
 layout: post
 title: <font size="7em"> <font style="color:Tomato;"> EDUCATION </font></font>
 ---
-<div style="float:left;">
-<img src="/images/fulls/HYU.jpg" class="image-img" width="360" height="330">
+
+<img src="/images/fulls/Edu.jpg" class="image-img" width="1000" height="350">
+
+<!--
+<div style="float:right;">
+<img src="/images/fulls/HYU.jpg" class="image-img" width="360" height="340">
 </div>
 <h1>Bachelor of Electronic Engineering <br>[Mar,2014 - Feb,2021]</h1>
 <font size="5em"><b>
+● Hanyang University, Seoul Korea(Republic of) <br>
 ● Bachelor of Biomedical Engineering (2nd Major) <br>
-● Hanyang University, Seoul (Korea, Republic of) <br>
 ● Technical GPA : 3.87/4.00 (Overall GPA : 3.78/4.00)<br>
 ● Upper Division GPA : 4.00/4.00 <br>
 ● National Science and Technology Scholarship <br>
 ● The Right Hands Scholarship <br>
+-->
 <hr style="height:3px">
 
 
-<br>
-<br>
-<br>
-<br>
 <h1>Exchange student - Bachelor of Electrical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aug,2019 - Jan,2020]</h1>
 <font size="5em"><b>
 <div style="float:right;">
