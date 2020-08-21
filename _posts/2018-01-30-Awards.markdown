@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="7em"><font style="color:mediumseagreen;"> AWARDS AND SCHOLARSHIPS </font></font>
+title: <font size="7em"><font style="color:Dodgerblue;;"> AWARDS AND SCHOLARSHIPS </font></font>
 ---
 <img src="/images/fulls/Awards.jpg" class="fit image">
 <hr style="height:3px">

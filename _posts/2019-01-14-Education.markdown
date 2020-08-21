@@ -2,8 +2,9 @@
 layout: post
 title: <font size="7em"> <font style="color:Dodgerblue;"> EDUCATION </font></font>
 ---
-
-<img src="/images/fulls/Edu.jpg" class="image-img" width="1000" height="350">
+<br>
+<img src="/images/fulls/Edu.jpg" class="image-img" width="1000" height="350"><br>
+<hr style="height:3px">
 
 
 <!--
@@ -17,8 +18,7 @@ title: <font size="7em"> <font style="color:Dodgerblue;"> EDUCATION </font></fon
 ● Upper Division GPA : 4.00/4.00 <br>
 ● National Science and Technology Scholarship <br>
 ● The Right Hands Scholarship <br></font> -->
-<br>
-<hr style="height:3px">
+
 
 <br>
 <font size="7em"><font style="color:black;">

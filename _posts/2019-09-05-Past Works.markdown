@@ -27,7 +27,7 @@ LU Research Group Undergraduate Research Assistant </font></h1>
 <br>
 
 <font size="5em" style="color:black;">
-&nbsp;•	Participated in developing and modifying the design of the circuits of wireless chest laminated &nbsp;ultrathin, stretchable E-Tatto that measures and combines ECG and SCG(Seismocardiography) &nbsp;capabilities to track heart health.<br>
+&nbsp;•	Participated in developing and modifying the design of the circuits of wireless chest laminated &nbsp;ultrathin, stretchable E-Tatto that measures and combines ECG and SCG(Seismocardiogram) &nbsp;capabilities to track heart health.<br>
 </font>
 <br>
 <div style="float:left;">
