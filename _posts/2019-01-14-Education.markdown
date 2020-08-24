@@ -67,5 +67,5 @@ Language Skills
     <td>HSK : Level 4</td>
     <td>Feb/11/2020</td>
   </tr>  
-</table></font>br>
+</table></font><br>
 <br>
