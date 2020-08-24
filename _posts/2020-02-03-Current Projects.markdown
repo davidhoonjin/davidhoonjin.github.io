@@ -47,8 +47,8 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG w
  <br>
  <br>
 
- <br><font style="color:black;">
- A pneumatic silicon fingers with piezoelectric deflection sensor(on the side where they meet). Once the sensors are attached, control automation is possible.</font>
+ <br><font size="5em" style="color:black;">
+ Currently developing pneumatic silicon fingers with piezoelectric deflection sensor inside(on the side where they meet). With the sensors, control automation is possible.</font>
  <br><br>
 
 <div class="w3-content" style="max-width:400px">
