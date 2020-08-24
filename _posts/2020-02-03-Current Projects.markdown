@@ -14,7 +14,7 @@ date: 2020-02-03
 <br>
 <br>
 <h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
- BCI As an Emotional Assistant</font></h1>
+ BCI(Brain Computer Interface) As an Emotional Assistant</font></h1>
  <div style="float:right;">
 <h><font size="5em">Computational Neuro Engineering(CoNE) LAB</font><br>
 <br></h></div><br>
@@ -46,6 +46,10 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG w
  Nanoelectronics Device LAB(NDL)</font></div>
  <br>
  <br>
+
+ <br><font style="color:black;">
+ A pneumatic silicon fingers with piezoelectric deflection sensor(on the side where they meet). Once the sensors are attached, control automation is possible.</font>
+ <br><br>
 
 <div class="w3-content" style="max-width:400px">
   <img class="mySlides" src="/images/fingers/finger1.jpg" style="width:100%">
