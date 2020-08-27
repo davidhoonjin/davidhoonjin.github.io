@@ -5,7 +5,7 @@ date: 2020-02-03
 ---
 <br>
 <font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and give feedback when needed.</font><font size="5em">(Feb,2020 ~ )<br></font>
-<font size="6em" style="color:black;">●<u>Sensing Actuator (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft actuator</font> <font size="5em">(Mar,2020 ~)<br></font>
+<font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft actuator</font> <font size="5em">(Mar,2020 ~)<br></font>
 <hr style="height:3px">
 
 
@@ -41,7 +41,7 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG w
 <br>
 <br>
 <h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
- Sensing Actuator (Silicon Finger with PVDF sensor)</font></h1>
+ Sensing Soft Robotics (Silicon Finger with PVDF sensor)</font></h1>
 <div style="float:right;"><font size="5em" >
  Nanoelectronics Device LAB(NDL)</font></div>
  <br>
