@@ -41,7 +41,7 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG w
 <br>
 <br>
 <h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
- Sensing Soft Robotics (Silicon Finger with PVDF sensor)</font></h1>
+ Sensing Soft Robot (Silicon Finger with PVDF sensor)</font></h1>
 <div style="float:right;"><font size="5em" >
  Nanoelectronics Device LAB(NDL)</font></div>
  <br>
