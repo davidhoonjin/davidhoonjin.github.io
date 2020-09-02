@@ -22,9 +22,14 @@ date: 2020-02-03
 <br><font style="color:black;">
 A system that measures bio-signals(EEG, PPG, GSR) to classify the user's emotional state. If it's classified below certain threshold, give a proper feedback to bring the user's emotion back to the desired status.</font>
 <br><br>
-<img src="/images/fulls/09.jpg" class="image-img" width="370" height="350">
-<img src="/images/fulls/03.jpg" class="image-img" width="300"> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accuracy over 80%
+<img src="/images/fulls/03.jpg" class="image-img" width="300"><br>
+<font style="color:black;">↓ Accuracy of classifying emotions with whole data over 85% (10-fold cross validation)</font><br>
+<img src="/images/fulls/09.jpg" class="image-img" width="650" height="400"> <br>
+<font style="color:black;">↓ "Accuracy of the model" per "Data size" used to build model</font><br>
+<img src="/images/fulls/0009.jpg" class="image-img" width="400" height="350"> <br>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font size="5em" style="color:black;">
 Currently accuracy of emotion classification is over 85%, and still working on improving the model. On-line experiment is planned to be held on September.
 <br><br>
@@ -75,8 +80,12 @@ function carousel() {
 }
 </script>
  ↑ First model without PVDF sensor<br>
- <img src="/images/fingers/finger5.jpg" class="image-img" width="300"> <br>
- ↑ mold made with the 3D printer
+<img src="/images/fingers/soft_robot.jpg" class="image-img" width="300"><br>
+<img src="/images/fingers/with bumps inside2.jpg" class="image-img" width="300"><br>
+↑ Old model without sensor<br>
+<img src="/images/fingers/with bumps and sensor holder2.jpg" class="image-img" width="300" height="200">
+<img src="/images/fingers/with bumps and sensor holder_2_2.jpg" class="image-img" width="300" height="250"><br>
+ ↑ Model with a sensor holder
 <br>
 <font size="5em" style="color:black;">
 Human-Friendly Flexible Finger can be advantageous in many fields that robots interacts with human body. When applied to Medical Robots or Medical catheters, minimum incision with soft movement will be possible.</font>
