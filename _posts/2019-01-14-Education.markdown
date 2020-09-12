@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="7em"> <font style="color:Dodgerblue;"> EDUCATION </font></font>
+title: <font size="7em"> <font style="color:Dodgerblue;"> EDUCATION      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <= Click</font></font>
 ---
 <br>
 <img src="/images/fulls/Edu.jpg" class="image-img" width="1000" height="350"><br>
