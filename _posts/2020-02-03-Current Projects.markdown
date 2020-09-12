@@ -151,6 +151,7 @@ CAPTCHA PROJECT - Personal Project
 <div style="float:right;"><font size="5em"> AUG,2020 </font></div>
 <br>
 <font style="color:black;">
+<font size="5em">Developing a system that can read distorted text with Machine Learning</font>
 Used the same images that "Keras (OCR model for reading Captchas))" used<br>
 <font size="5em">
 <u>Motivation:</u> Understanding Machine Learning theoretically and implementing the idea through python to acquire practical machine learning techniques.<br><br>
