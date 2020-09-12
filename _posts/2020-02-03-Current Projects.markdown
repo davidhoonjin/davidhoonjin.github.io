@@ -75,10 +75,10 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG t
  <br><font size="5em" style="color:black;">
  <u>Motivation & Idea:</u> Human-Friendly Flexible Finger can be advantageous in many fields that robots interacts with human body. When applied to Medical Robots or Medical catheters, minimum incision with soft movement will be possible.<br>
  <br>
- Therefore, Currently developing pneumatic silicon fingers with piezoelectric deflection sensor inside(on the side where they meet). With the sensors, precise control is possible and can fully atomize the control.</font>
+ <font size="6em" >Therefore, Currently developing pneumatic silicon fingers with piezoelectric deflection sensor as a Tactile sensor inside(on the side where they meet). With the sensors, precise control is possible and can fully atomize the control.</font></font>
  <br><br>
 <hr style="height:3px">
-<h1 style="color:black;"><font size="6em">First Model(Without PVDF Sensor), ditch outside only</font></h1>
+<h1 style="color:black;"><font size="6em"><u>First Model(Without PVDF Sensor), ditch outside only</u></font></h1>
 <img src="/images/fingers/simul1.jpg" class="image-img" width="800"><br>
 <br>
 <img src="/images/fingers/simul2.jpg" class="image-img" width="800"><br>
@@ -110,14 +110,14 @@ function carousel() {
 }
 </script>
 
-<h1 style="color:black;"><font size="6em"> Second Model(Without PVDF Sensor) with ditch both inside and outside</font></h1><br>
+<h1 style="color:black;"><font size="6em"><u> Second Model(Without PVDF Sensor) with ditch both inside and outside</u</font></h1><br>
 <img src="/images/fingers/2.jpg" class="image-img" width="800"><br>
 <font size="5em" style="color:black;">In order to enhance strain rate difference between upper and lower layer, also added ditch inside<br>             </font>
 <img src="/images/fingers/2nd.jpg" class="image-img" width="800"><br>
 <h1 style="color:black;"><font size="6em">Operation Comparison Between First and Second Model<br>             </font></h1>
 <img src="/images/fingers/comp.jpg" class="image-img" width="800"><br>
 <hr style="height:3px"><br>
-<h1 style="color:black;"><font size="6em"> Third Model to Attatch PVDF Sensor</font></h1><br>
+<h1 style="color:black;"><font size="6em"> <u>Third Model to Attatch PVDF Sensor</u></font></h1><br>
 <img src="/images/fingers/3d2.jpg" class="image-img" width="800"><br>
 <font size="5em" style="color:black;">↑ 3D mold image to make a pocket to attach PVDF prezo electric sensor<br>             </font>
 <img src="/images/fingers/222.jpg" class="image-img" width="800"><br>
@@ -125,7 +125,7 @@ function carousel() {
 <img src="/images/fingers/with bumps and sensor holder_2_2.jpg" class="image-img" width="300" height="200">
 <img src="/images/fingers/with_sensor.jpg" class="image-img" width="300" height="200"><br>
 <hr style="height:3px"><br>
-<h1 style="color:black;"><font size="6em"> Fourth Model Fully Automized by PVDF Sensor</font></h1><br>
+<h1 style="color:black;"><font size="6em"><u> Fourth Model Fully Automized by PVDF Sensor</u></font></h1><br>
 <font size="5em" style="color:black;">
 Comming soon</font>
 <br>
@@ -151,7 +151,7 @@ CAPTCHA PROJECT - Personal Project
 <div style="float:right;"><font size="5em"> AUG,2020 </font></div>
 <br>
 <font style="color:black;">
-<font size="5em">Developing a system that can read distorted text with Machine Learning</font>
+<font size="6em">Developed a system that can read distorted text with Machine Learning</font><br>
 Used the same images that "Keras (OCR model for reading Captchas))" used<br>
 <font size="5em">
 <u>Motivation:</u> Understanding Machine Learning theoretically and implementing the idea through python to acquire practical machine learning techniques.<br><br>
