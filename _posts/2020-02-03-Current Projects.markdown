@@ -29,9 +29,10 @@ date: 2020-02-03
 <br>
 <font size="5em">
 <u>Motivation & Idea:</u> These days more and more people are suffering from depression, stress and mental illnesses. Most of these symptoms are caused by continuously accumulated emotional stresses. If I could develop an intelligent system that can interact with human and help the user to bring unhealthy emotional state to normal state(or even desired state), it will make our life better. Also, people tend to spend more time with Electronic devices and less with human beings so it's about time for the computers to care our mental healths too.<br><br></font>
+
 <font size="5em">
-<u>Solution:</u> A system that measures bio-signals(EEG, PPG, GSR) to classify the user's emotional state. If it's classified below certain threshold, give a proper feedback to bring the user's emotion back to the desired status. <br><br>
-<u>Method:</u> Through experiment, collect the data and epoch it. Out of "n" number of windows in a row, system counts how many windows(m) are classified as positive or negative valence. If the system returns negative valence, it controls surrounding environments to bring the user's emotion back. </font>
+<u>Solution:</u> A system that measures bio-signals(EEG, PPG, GSR) to recognize the “inner” emotion (as humans could control their facial expressions) based on "Valence-Arousal Model". If it's classified as negative valence, music with colored ambient light were applied as a feedback to bring the user's emotion back to the desired state. <br><br>
+<u>Method:</u> Through experiment, collect EEG and GSR data and epoch it after signal processing. I extracted features from them and built a classification model with SVM. Out of "n" number of windows in a row, system counts how many windows(m) are classified as positive or negative valence. If the system returns negative valence, it controls surrounding environments to bring the user's emotion back. </font>
 </font><br>
 <br>
 
@@ -73,9 +74,9 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG t
  <br>
 
  <br><font size="5em" style="color:black;">
- <u>Motivation & Idea:</u> Human-Friendly Flexible Finger can be advantageous in many fields that robots interacts with human body. When applied to Medical Robots or Medical catheters, minimum incision with soft movement will be possible.<br>
+ <u>Motivation & Idea:</u> Human-Friendly Flexible Finger can be advantageous in many fields that robots interacts with human body. When applied to Medical Robots or Medical catheters, minimum incision with soft movement will be possible.<br></font>
  <br>
- <font size="6em" >Therefore, Currently developing pneumatic silicon fingers with piezoelectric deflection sensor as a Tactile sensor inside(on the side where they meet). With the sensors, precise control is possible and can fully atomize the control.</font></font>
+ <font size="6em" style="color:black;">Therefore, Currently developing pneumatic silicon fingers with piezoelectric deflection sensor as a Tactile sensor inside(on the side where they meet). With the sensors, precise control is possible and can fully atomize the control.</font>
  <br><br>
 <hr style="height:3px">
 <h1 style="color:black;"><font size="6em"><u>First Model(Without PVDF Sensor), ditch outside only</u></font></h1>
@@ -110,7 +111,7 @@ function carousel() {
 }
 </script>
 
-<h1 style="color:black;"><font size="6em"><u> Second Model(Without PVDF Sensor) with ditch both inside and outside</u</font></h1><br>
+<h1 style="color:black;"><font size="6em"><u> Second Model(Without PVDF Sensor) with ditch both inside and outside</u></font></h1><br>
 <img src="/images/fingers/2.jpg" class="image-img" width="800"><br>
 <font size="5em" style="color:black;">In order to enhance strain rate difference between upper and lower layer, also added ditch inside<br>             </font>
 <img src="/images/fingers/2nd.jpg" class="image-img" width="800"><br>
