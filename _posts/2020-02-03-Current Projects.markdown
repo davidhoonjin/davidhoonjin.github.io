@@ -4,13 +4,13 @@ title: <font size="7em"> <font style="color:Dodgerblue;">Projects      &nbsp;&nb
 date: 2020-02-03
 ---
 <br>
-<font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and give feedback when needed.</font><font size="5em">(Feb,2020 ~ )<br></font>
+<font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><font size="5em">(Feb,2020)<br></font>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
 <font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft finger</font> <font size="5em">(Mar,2020 ~)<br></font>
 <img src="/images/fingers/222.jpg" class="image-img" width = "800" ><br>
 <br><font size="6em" style="color:black;">
 ●CAPTCHA PROJECT  
-</font> <font size="5em"> (AUG,2020) </font>
+</font> <font size="5em"> (Aug,2020 - Aug,2020) </font>
 <img src="/images/fulls/captcha2.jpg" class="image-img" width = "800" ><br>
 <hr style="height:3px">
 
@@ -20,7 +20,7 @@ date: 2020-02-03
 <br>
 <br>
 <h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
- BCI(Brain Computer Interface) As an Emotional Assistant</font></h1>
+ Brain Computer Interface As an Emotional Assistant</font></h1>
  <div style="float:right;">
 <h><font size="5em">Computational Neuro Engineering(CoNE) LAB</font><br>
 <br></h></div><br>
@@ -28,10 +28,10 @@ date: 2020-02-03
 <font size="5em" style="color:black;">
 <br>
 <font size="5em">
-<u>Motivation & Idea:</u> These days more and more people are suffering from depression, stress and mental illnesses. Most of these symptoms are caused by continuously accumulated emotional stresses. If I could develop an intelligent system that can interact with human and help the user to bring unhealthy emotional state to normal state(or even desired state), it will make our life better. Also, people tend to spend more time with Electronic devices and less with human beings so it's about time for the computers to care our mental healths too.<br><br></font>
+<u>Motivation & Idea:</u> These days more and more people are suffering from depression, stress and mental illness. Most of these symptoms are caused by continuously accumulated emotional stresses. If I could develop an intelligent system that can interact with human and help the user to bring unhealthy emotional state to normal state(or even desired state), it will make our life better. Also, people tend to spend more time with Electronic devices and less with human beings so it's about time for the computers to care our mental health too.<br><br></font>
 
 <font size="5em">
-<u>Solution:</u> A system that measures bio-signals(EEG, PPG, GSR) to recognize the “inner” emotion (as humans could control their facial expressions) based on "Valence-Arousal Model". If it's classified as negative valence, music with colored ambient light were applied as a feedback to bring the user's emotion back to the desired state. <br><br>
+<u>Solution:</u> Drawing from the "Valence-Arousal Model", we could build a system that measures bio-signals(EEG, PPG, GSR) to recognize the “inner” emotion (as humans could control their facial expressions). If it's classified as negative valence, positive stimuli such as music or colored lights could help bring the user's emotion back to the desired state. <br><br>
 <u>Method:</u> Through experiment, collect EEG and GSR data and epoch it after signal processing. I extracted features from them and built a classification model with SVM. Out of "n" number of windows in a row, system counts how many windows(m) are classified as positive or negative valence. If the system returns negative valence, it controls surrounding environments to bring the user's emotion back. </font>
 </font><br>
 <br>
