@@ -6,8 +6,8 @@ date: 2020-02-03
 <br>
 <font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><font size="5em">(Feb,2020)<br></font>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
-<font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft finger</font> <font size="5em">(Mar,2020 ~)<br></font>
-<img src="/images/fingers/222.jpg" class="image-img" width = "800" ><br>
+<font size="6em" style="color:black;">●<u>Sensing Soft Finger (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft finger</font> <font size="5em">(Mar,2020 ~)<br></font>
+<img src="/images/fingers/cover.jpg" class="image-img" width = "800" ><br>
 <br><font size="6em" style="color:black;">
 ●CAPTCHA PROJECT  
 </font> <font size="5em"> (Aug,2020 - Aug,2020) </font>
@@ -67,7 +67,7 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG t
 <br>
 <br>
 <h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
- Sensing Soft Robot (Silicon Finger with PVDF sensor)</font></h1>
+ Sensing Soft Finger (Silicon Finger with PVDF sensor)</font></h1>
 <div style="float:right;"><font size="5em" >
  Nanoelectronics Device LAB(NDL)</font></div>
  <br>
@@ -118,15 +118,29 @@ function carousel() {
 <h1 style="color:black;"><font size="6em">Operation Comparison Between First and Second Model<br>             </font></h1>
 <img src="/images/fingers/comp.jpg" class="image-img" width="800"><br>
 <hr style="height:3px"><br>
-<h1 style="color:black;"><font size="6em"> <u>Third Model to Attatch PVDF Sensor</u></font></h1><br>
+
+
+<h1 style="color:black;"><font size="6em"> <u>Third Model with Embedded PVDF Sensor</u></font></h1><br>
 <img src="/images/fingers/3d2.jpg" class="image-img" width="800"><br>
-<font size="5em" style="color:black;">↑ 3D mold image to make a pocket to attach PVDF prezo electric sensor<br>             </font>
+<font size="5em" style="color:black;">↑ 3D mold image to make a pocket to attach PVDF piezoelectric sensor<br>             </font>
 <img src="/images/fingers/222.jpg" class="image-img" width="800"><br>
 
-<img src="/images/fingers/with bumps and sensor holder_2_2.jpg" class="image-img" width="300" height="200">
-<img src="/images/fingers/with_sensor.jpg" class="image-img" width="300" height="200"><br>
+<!-- <img src="/images/fingers/with bumps and sensor holder_2_2.jpg" class="image-img" width="300" height="200"> -->
+
+<img src="/images/fingers/with_sensor.jpg" class="image-img" width="800" height="200"><br>
+<font size="5em" style="color:black;">↑ Embedding PVDF sensor wtih second molding<br>             </font>
 <hr style="height:3px"><br>
-<h1 style="color:black;"><font size="6em"><u> Fourth Model Fully Automized by PVDF Sensor</u></font></h1><br>
+<img src="/images/fingers/setting.jpg" class="image-img" width="900"><br>
+<br>
+<br><br>
+<img src="/images/fingers/output.jpg" class="image-img" width="900"><br>
+<br>
+<br><br>
+<img src="/images/fingers/output2.jpg" class="image-img" width="900"><br>
+<img src="/images/fingers/output3.jpg" class="image-img" width="500"><br>
+<font size="5em" style="color:black;">↑ Through embedded sensor output, 1. bending state and 2.touching can be monitored<br>             </font>
+<hr style="height:3px"><br>
+<h1 style="color:black;"><font size="6em"><u> Fourth Model Fully Automated by PVDF Sensor</u></font></h1><br>
 <font size="5em" style="color:black;">
 Comming soon</font>
 <br>

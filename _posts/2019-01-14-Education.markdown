@@ -14,7 +14,7 @@ title: <font size="7em"> <font style="color:Dodgerblue;"> EDUCATION      &nbsp;&
 <font size="5em" style="color:black;">
 ● Hanyang University, Seoul Korea(Republic of) <br>
 ● Bachelor of Biomedical Engineering (2nd Major) <br>
-● Technical GPA : 3.87/4.00 (Overall GPA : 3.78/4.00)<br>
+● Technical GPA : 3.87/4.00 (Overall GPA : 3.79/4.00)<br>
 ● Upper Division GPA : 4.00/4.00 <br>
 ● National Science and Technology Scholarship <br>
 ● The Right Hands Scholarship <br></font> -->
