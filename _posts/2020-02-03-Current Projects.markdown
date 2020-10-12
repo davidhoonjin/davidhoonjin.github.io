@@ -142,7 +142,7 @@ function carousel() {
 <hr style="height:3px"><br>
 <h1 style="color:black;"><font size="6em"><u> Fourth Model Fully Automated by PVDF Sensor</u></font></h1><br>
 <font size="5em" style="color:black;">
-Comming soon</font>
+Coming soon</font>
 <br>
 <br><br>
 <br>

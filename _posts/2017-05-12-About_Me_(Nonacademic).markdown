@@ -19,6 +19,7 @@ President and Founder of HYRC(Hanyang Rock Climbing club) <br>
 </div>
 
 <font size="5em" style="color:black;">
+← My design!!!<br>
 • Passionate, but Safe Climber
 </font>
 <br><br><br><br><br><br><br><br>
