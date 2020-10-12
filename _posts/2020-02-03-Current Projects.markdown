@@ -5,6 +5,7 @@ date: 2020-02-03
 ---
 <br>
 <font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><font size="5em">(Feb,2020)<br></font>
+<font size="5em" style="color:black;">Target Conference : IMWUT 2021/2022</font><br>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
 <font size="6em" style="color:black;">●<u>Sensing Soft Finger (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft finger</font> <font size="5em">(Mar,2020 ~)<br></font>
 <img src="/images/fingers/cover.jpg" class="image-img" width = "800" ><br>
@@ -24,10 +25,11 @@ date: 2020-02-03
  <div style="float:right;">
 <h><font size="5em">Computational Neuro Engineering(CoNE) LAB</font><br>
 <br></h></div><br>
-
+Target Conference : IMWUT 2021/2022<br>
 <font size="5em" style="color:black;">
 <br>
 <font size="5em">
+Target Conference : IMWUT 2021/2022<br>
 <u>Motivation & Idea:</u> These days more and more people are suffering from depression, stress and mental illness. Most of these symptoms are caused by continuously accumulated emotional stresses. If I could develop an intelligent system that can interact with human and help the user to bring unhealthy emotional state to normal state(or even desired state), it will make our life better. Also, people tend to spend more time with Electronic devices and less with human beings so it's about time for the computers to care our mental health too.<br><br></font>
 
 <font size="5em">
