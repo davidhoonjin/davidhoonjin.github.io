@@ -7,7 +7,7 @@ date: 2020-02-03
 <font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><font size="5em">(Feb,2020)<br></font>
 <font size="5em" style="color:black;">Target Conference : IMWUT 2021/2022</font><br>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
-<font size="6em" style="color:black;">●<u>Sensing Soft Finger (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft finger</font> <font size="5em">(Mar,2020 ~)<br></font>
+<font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft arm</font> <font size="5em">(Mar,2020 ~)<br></font>
 <img src="/images/fingers/cover.jpg" class="image-img" width = "800" ><br>
 <br><font size="6em" style="color:black;">
 ●CAPTCHA PROJECT  
@@ -69,16 +69,16 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG t
 <br>
 <br>
 <h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
- Sensing Soft Finger (Silicon Finger with PVDF sensor)</font></h1>
+ Sensing Soft Robot (Silicon Finger with PVDF sensor)</font></h1>
 <div style="float:right;"><font size="5em" >
  Nanoelectronics Device LAB(NDL)</font></div>
  <br>
  <br>
 
  <br><font size="5em" style="color:black;">
- <u>Motivation & Idea:</u> Human-Friendly Flexible Finger can be advantageous in many fields that robots interacts with human body. When applied to Medical Robots or Medical catheters, minimum incision with soft movement will be possible.<br></font>
+ <u>Motivation & Idea:</u> To provide physical platform for computers to interact with surrounding objects and humans with Human-Friendly Flexible Finger. When applied to Medical Robots or Medical catheters, minimum incision with soft movement will make interaction safer.<br></font>
  <br>
- <font size="6em" style="color:black;">Therefore, Currently developing pneumatic silicon fingers with piezoelectric deflection sensor as a Tactile sensor inside(on the side where they meet). With the sensors, precise control is possible and can fully atomize the control.</font>
+ <font size="6em" style="color:black;">Therefore, Currently developing pneumatic silicon arm with piezoelectric deflection sensor as a Tactile sensor inside(on the side where they meet). With the sensors, precise control is possible and can fully atomize the control.</font>
  <br><br>
 <hr style="height:3px">
 <h1 style="color:black;"><font size="6em"><u>First Model(Without PVDF Sensor), ditch outside only</u></font></h1>
