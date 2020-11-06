@@ -147,8 +147,7 @@ function carousel() {
 <font size="5em" style="color:black;">↑ Through embedded sensor output, 1. bending state and 2.touching can be monitored<br>             </font>
 <br>
 
-<iframe width="620" height="515"
-src="http://www.youtube.com/embed/ETY7hvVFddA?mute=1">
+<iframe width="620" height="515" src="http://www.youtube.com/embed/ETY7hvVFddA?mute=1">
 </iframe>
 
 <hr style="height:3px"><br>

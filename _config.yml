@@ -3,7 +3,7 @@ title:  "Hoonjin Jung" # Title of your site
 url: "https://davidhoonjin.github.io/" # the base hostname & protocol for your site
 baseurl: "https://davidhoonjin.github.io/" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
-
+plugins: [jekyll-youtube]
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
   Personal Webpage of Hoonjin Jung

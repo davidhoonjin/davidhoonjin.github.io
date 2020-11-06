@@ -8,3 +8,7 @@ group :jekyll_plugins do
 	gem 'jekyll-paginate', '1.1.0'
 	gem 'jekyll-sitemap', '1.0.0'
 end
+
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end
