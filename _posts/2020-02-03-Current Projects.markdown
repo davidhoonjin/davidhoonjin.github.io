@@ -8,8 +8,8 @@ date: 2020-02-03
 <font size="5em" style="color:black;">Target Conference : IMWUT 2021/2022</font><br>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
 <font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated grasping force controlling soft finger</font> <font size="5em">(Mar,2020 - Nov,2020)<br></font>
-<iframe width="620" height="515"
-src="http://www.youtube.com/embed/YDlgXynNdxY?mute=1">
+<!--{% include youtube.html id="YDlgXynNdxY" %}-->  
+<iframe width="620" height="515" src="http://www.youtube.com/embed/YDlgXynNdxY" frameborder="0" allowfullscreen>
 </iframe><br>
 <br><font size="6em" style="color:black;">
 ●CAPTCHA PROJECT  
@@ -147,7 +147,7 @@ function carousel() {
 <font size="5em" style="color:black;">↑ Through embedded sensor output, 1. bending state and 2.touching can be monitored<br>             </font>
 <br>
 
-<iframe width="620" height="515" src="http://www.youtube.com/embed/ETY7hvVFddA?mute=1">
+<iframe width="620" height="515" src="http://www.youtube.com/embed/ETY7hvVFddA"  frameborder="0" allowfullscreen>
 </iframe>
 
 <hr style="height:3px"><br>
