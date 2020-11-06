@@ -147,14 +147,11 @@ function carousel() {
 <font size="5em" style="color:black;">↑ Through embedded sensor output, 1. bending state and 2.touching can be monitored<br>             </font>
 <br>
 
-<iframe width="620" height="515" src="http://www.youtube.com/embed/ETY7hvVFddA"  frameborder="0" allowfullscreen>
-</iframe>
+<iframe width="898" height="656" src="https://www.youtube.com/embed/ETY7hvVFddA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr style="height:3px"><br>
 <h1 style="color:black;"><font size="6em"><u> Fourth Model Fully Automated by PVDF Sensor</u></font></h1><br>
-<iframe width="620" height="515"
-src="http://www.youtube.com/embed/j-gWV7n3gHQ?mute=1">
-</iframe>
+<iframe width="791" height="656" src="https://www.youtube.com/embed/j-gWV7n3gHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <font size="5em" style="color:black;">
 <br>
 Computer monitors the bending status, and together with microcontroller, finger controls the grasping force by automatically stop inflating when it has grasped the item with enough force, based on its tactile senses.</font>
