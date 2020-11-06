@@ -8,9 +8,9 @@ date: 2020-02-03
 <font size="5em" style="color:black;">Target Conference : IMWUT 2021/2022</font><br>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
 <font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated grasping force controlling soft finger</font> <font size="5em">(Mar,2020 - Nov,2020)<br></font>
-<!--{% include youtube.html id="YDlgXynNdxY" %}-->  
-<iframe width="620" height="515" src="http://www.youtube.com/embed/YDlgXynNdxY" frameborder="0" allowfullscreen>
-</iframe><br>
+<!--{% include youtube.html id="YDlgXynNdxY" %}-->
+<iframe width="776" height="656" src="https://www.youtube.com/embed/YDlgXynNdxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 <br><font size="6em" style="color:black;">
 ●CAPTCHA PROJECT  
 </font> <font size="5em"> (Aug,2020 - Aug,2020) </font>
