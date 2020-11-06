@@ -1,18 +1,24 @@
 ---
 layout: post
-title: <font size="7em"> <font style="color:Dodgerblue;">Projects      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <= Click </font></font>
+title: <font size="7em"> <font style="color:Dodgerblue;">RESEARCH & PROJECTS      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <= Click </font></font>
 date: 2020-02-03
 ---
 <br>
-<font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><font size="5em">(Feb,2020)<br></font>
+<font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><font size="5em">(Feb,2020 -)<br></font>
 <font size="5em" style="color:black;">Target Conference : IMWUT 2021/2022</font><br>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
-<font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated soft arm</font> <font size="5em">(Mar,2020 ~)<br></font>
-<img src="/images/fingers/cover.jpg" class="image-img" width = "800" ><br>
+<font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Automated grasping force controlling soft finger</font> <font size="5em">(Mar,2020 - Nov,2020)<br></font>
+<iframe width="620" height="515"
+src="http://www.youtube.com/embed/YDlgXynNdxY?mute=1">
+</iframe><br>
 <br><font size="6em" style="color:black;">
 ●CAPTCHA PROJECT  
 </font> <font size="5em"> (Aug,2020 - Aug,2020) </font>
 <img src="/images/fulls/captcha2.jpg" class="image-img" width = "800" ><br>
+<br><font size="6em" style="color:black;">
+● <u>Wireless wearable health sensor</u>: A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals  <br>
+</font> <font size="5em"> LU Research Group Undergraduate Research Assistant, University of Texas at Austin (AUG,2019 - Dec,2019)</font><br>
+<img src="/images/fulls/LU.jpg" class="image-img" width="175" height="250">
 <hr style="height:3px">
 
 
@@ -52,8 +58,7 @@ Currently accuracy of emotion classification is over 85%, and still working on i
 <u>Throughout the Project...</u> <br>
 Developed Matlab function :<br>
 1. <a href="/images/GSR_feature.m">Click here to download GSR feature extraction Matlab code</a><br><br>
-Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG through Machine Learning"<br>
--> Motivation - Previous thesis only used ICA-based feature. If PCA and Regression based features are considered, accuracy can be improved.
+Future project idea : &nbsp;&nbsp; "I want to combine this empathic system to our daily devices so that the users can share their “actual” emotion with others and furthermore, with things."<br>
 </font>
 <hr style="height:3px">
 
@@ -76,10 +81,9 @@ Future project idea : &nbsp;&nbsp; "Removing Ocular(and emg) Artifact from EEG t
  <br>
 
  <br><font size="5em" style="color:black;">
- <u>Motivation & Idea:</u> To provide physical platform for computers to interact with surrounding objects and humans with Human-Friendly Flexible Finger. When applied to Medical Robots or Medical catheters, minimum incision with soft movement will make interaction safer.<br></font>
+ <u>Content & Idea:&nbsp;</u> I developed a soft robot arm with a piezoelectric sensor-based precisely controllable pneumatic finger, with the motivation to provide a physical platform for computers to interact with humans. When applied to Medical Robots or Medical catheters, minimum incision with soft movement will make interaction safer.<br></font>
  <br>
- <font size="6em" style="color:black;">Therefore, Currently developing pneumatic silicon arm with piezoelectric deflection sensor as a Tactile sensor inside(on the side where they meet). With the sensors, precise control is possible and can fully atomize the control.</font>
- <br><br>
+ <br>
 <hr style="height:3px">
 <h1 style="color:black;"><font size="6em"><u>First Model(Without PVDF Sensor), ditch outside only</u></font></h1>
 <img src="/images/fingers/simul1.jpg" class="image-img" width="800"><br>
@@ -124,7 +128,7 @@ function carousel() {
 
 <h1 style="color:black;"><font size="6em"> <u>Third Model with Embedded PVDF Sensor</u></font></h1><br>
 <img src="/images/fingers/3d2.jpg" class="image-img" width="800"><br>
-<font size="5em" style="color:black;">↑ 3D mold image to make a pocket to attach PVDF piezoelectric sensor<br>             </font>
+<font size="5em" style="color:black;">↑ 3D mold image to make a trench to embed PVDF piezoelectric sensor<br>             </font>
 <img src="/images/fingers/222.jpg" class="image-img" width="800"><br>
 
 <!-- <img src="/images/fingers/with bumps and sensor holder_2_2.jpg" class="image-img" width="300" height="200"> -->
@@ -141,11 +145,28 @@ function carousel() {
 <img src="/images/fingers/output2.jpg" class="image-img" width="900"><br>
 <img src="/images/fingers/output3.jpg" class="image-img" width="500"><br>
 <font size="5em" style="color:black;">↑ Through embedded sensor output, 1. bending state and 2.touching can be monitored<br>             </font>
+<br>
+
+<iframe width="620" height="515"
+src="http://www.youtube.com/embed/ETY7hvVFddA?mute=1">
+</iframe>
+
 <hr style="height:3px"><br>
 <h1 style="color:black;"><font size="6em"><u> Fourth Model Fully Automated by PVDF Sensor</u></font></h1><br>
+<iframe width="620" height="515"
+src="http://www.youtube.com/embed/j-gWV7n3gHQ?mute=1">
+</iframe>
 <font size="5em" style="color:black;">
-Coming soon</font>
 <br>
+Computer monitors the bending status, and together with microcontroller, finger controls the grasping force by automatically stop inflating when it has grasped the item with enough force, based on its tactile senses.</font>
+<br>
+<hr style="height:3px"><br>
+<h1 style="color:black;"><font size="6em"><u> Connecting the soft finger to an soft arm</u></font></h1><br>
+<img src="/images/fingers/new/arm5.jpg" class="image-img" width="900"><br>
+<font size="5em" style="color:black;">↑ Through combining this soft finger to a soft robot arm broadened the sensing boundary<br>            
+<br>
+<br>
+ "I am currently adding vision to this robot arm through a camera, so that it can sense where and how strong it should grasp to pick the item up. </font>
 <br><br>
 <br>
 <br>
@@ -194,7 +215,7 @@ Used the same images that "Keras (OCR model for reading Captchas))" used<br>
 
 
 
-
+<!--
 <br>
 <h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
 VLSI (EE 460R)Course Project </font></h1>
@@ -246,3 +267,44 @@ Schematic ↑ <br>
 
 <hr style="height:3px">
 <br>
+-->
+
+
+
+
+
+<br>
+<h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
+LU Research Group Undergraduate Research Assistant </font></h1>
+<div style="float:right;"><font size="5em"> University of Texas at Austin (Aug,2019 – Dec,2019)
+</font></div>
+<br>
+
+<font size="5em" style="color:black;">
+&nbsp;•	Participated in developing and modifying the design of the circuits of wireless chest laminated &nbsp;ultrathin, stretchable E-Tatto that measures and combines ECG and SCG(Seismocardiogram) &nbsp;capabilities to track heart health.<br>
+</font>
+<br>
+<div style="float:left;">
+<img src="/images/fulls/LU.jpg" class="image-img" width="250" height="350">
+</div>
+<font size="5em"><b><a href="https://lu.ae.utexas.edu/index.php/98-feature/219-a-chest-laminated-ultrathin-and-stretchable-e-tattoo" target="_blank"><u>
+&nbsp;"A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals”<br></u></a></b></font>
+<font size="4em">
+&nbsp;T. Ha, J. Tran, S. Liu, H. Jang, H. Jeong, R. Mitbander, H. Huh, Y. Qiu, J. Duang, R. Wang, P. Wang, A. Tandon, J. Sirohi, N. S. Lu*,  Advanced Science, 1900290, May 2019 <br>
+</font>
+<br>
+<br>
+<br><br><br><font style="color:black;">
+&nbsp; • Modified the design of the circuit to be more &nbsp;stretchable.<br></font>
+<img src="/images/fulls/lu11.jpg" class="image-img" width="250" height="300">
+<img src="/images/fulls/lu22.jpg" class="image-img" width="400" height="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;former version(left)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; latter version(right)<br>
+<br><font style="color:black;">
+• Soldering<br></font>
+<img src="/images/fulls/LU7.jpg" class="image-img" width="350" height="250">
+<br>
+<hr style="height:3px">
+<br><br>

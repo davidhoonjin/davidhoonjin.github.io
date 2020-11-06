@@ -1,13 +1,10 @@
 ---
 layout: post
-title: <font size="7em"> <font style="color:Dodgerblue;"> RESEARCH EXPERIENCE   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <= Click </font></font>
+title: <font size="7em"> <font style="color:Dodgerblue;"> OTHER EXPERIENCES   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <= Click </font></font>
 categories: update
 ---
 <br><font size="6em" style="color:black;">
-● A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals  <br>
-</font> <font size="5em"> LU Research Group Undergraduate Research Assistant, University of Texas at Austin (AUG,2019 - Dec,2019)</font><br>
-<img src="/images/fulls/LU.jpg" class="image-img" width="175" height="250">
-<font size="6em" style="color:black;">●Nano electronics device Lab (NDL) Winter Internship <br>
+●Nano electronics device Lab (NDL) Winter Internship <br>
 </font> <font size="5em"> Hanyang University (Mar,2019 – Jul,2019)<br>
 </font>
 <font size="6em" style="color:black;">
@@ -20,41 +17,6 @@ categories: update
 
 
 
-<br>
-<h1 style="background-color:LightCyan; text-align:center; color:black;"><font size="6em">
-LU Research Group Undergraduate Research Assistant </font></h1>
-<div style="float:right;"><font size="5em"> University of Texas at Austin (Aug,2019 – Dec,2019)
-</font></div>
-<br>
-
-<font size="5em" style="color:black;">
-&nbsp;•	Participated in developing and modifying the design of the circuits of wireless chest laminated &nbsp;ultrathin, stretchable E-Tatto that measures and combines ECG and SCG(Seismocardiogram) &nbsp;capabilities to track heart health.<br>
-</font>
-<br>
-<div style="float:left;">
-<img src="/images/fulls/LU.jpg" class="image-img" width="250" height="350">
-</div>
-<font size="5em"><b><a href="https://lu.ae.utexas.edu/index.php/98-feature/219-a-chest-laminated-ultrathin-and-stretchable-e-tattoo" target="_blank"><u>
-&nbsp;"A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals”<br></u></a></b></font>
-<font size="4em">
-&nbsp;T. Ha, J. Tran, S. Liu, H. Jang, H. Jeong, R. Mitbander, H. Huh, Y. Qiu, J. Duang, R. Wang, P. Wang, A. Tandon, J. Sirohi, N. S. Lu*,  Advanced Science, 1900290, May 2019 <br>
-</font>
-<br>
-<br>
-<br><br><br><font style="color:black;">
-&nbsp; • Modified the design of the circuit to be more &nbsp;stretchable.<br></font>
-<img src="/images/fulls/lu11.jpg" class="image-img" width="250" height="300">
-<img src="/images/fulls/lu22.jpg" class="image-img" width="400" height="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;former version(left)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp; latter version(right)<br>
-<br><font style="color:black;">
-• Soldering<br></font>
-<img src="/images/fulls/LU7.jpg" class="image-img" width="350" height="250">
-<br>
-<hr style="height:3px">
-<br><br>
 
 
 
