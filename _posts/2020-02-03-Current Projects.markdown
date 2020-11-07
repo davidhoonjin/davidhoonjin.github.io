@@ -9,7 +9,7 @@ date: 2020-02-03
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
 <font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Soft finger automatically controlling grasping force based on it's tactile sensor</font> <font size="5em">(Mar,2020 - Nov,2020)<br></font>
 <!--{% include youtube.html id="YDlgXynNdxY" %}-->
-<iframe width="776" height="656" src="https://www.youtube.com/embed/YDlgXynNdxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="776" height="656" src="https://www.youtube.com/embed/hBMgaR_ufO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br><font size="6em" style="color:black;">
 ●CAPTCHA PROJECT  
