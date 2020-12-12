@@ -4,20 +4,19 @@ title: <font size="7em"> <font style="color:Dodgerblue;">RESEARCH & PROJECTS    
 date: 2020-02-03
 ---
 <br>
-<font size="6em" style="color:black;">●<u>BCI As an Emotional Assistant :</u></font><font size="6em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><font size="5em">(Feb,2020 -)<br></font>
-<font size="5em" style="color:black;">Target Conference : IMWUT 2021/2022</font><br>
+<font size="6em" style="color:black;">●BCI As an Emotional Assistant</font><font size="5em">(Feb,2020 -)</font><br><font size="5em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><br><font size="5em" style="color:black;">Target Conference : IMWUT 2022</font><br>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
-<font size="6em" style="color:black;">●<u>Sensing Soft Robot (Silicon Finger with PVDF sensor):</u></font><font size="6em" style="color:black;">Soft finger automatically controlling grasping force based on it's tactile sensor</font> <font size="5em">(Mar,2020 - Nov,2020)<br></font>
+<font size="6em" style="color:black;">●Sensing Soft Robot (Silicon Finger with PVDF sensor)</font><font size="5em">(Mar,2020 - Nov,2020)</font><br><font size="5em" style="color:black;">Soft finger <!--automatically controlling grasping force based on it's tactile sensor   Polyvinylidene fluoride (PVDF) piezoelectric sensor embedded into the silicone finger enabled to--> sensing the bending status, touch, grip force, slip, and surface texture. This made it possible for the finger to grip an object automatically with appropriate force that can be applied to biomedical application, and industrial application.   </font><br><font size="5em" style="color:black;">Target Conference : IROS 2021</font><br>
 <!--{% include youtube.html id="YDlgXynNdxY" %}-->
-<iframe width="796" height="656" src="https://www.youtube.com/embed/CKtgSuIAI2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="793" height="656" src="https://www.youtube.com/embed/4RQtQQPaJjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br><font size="6em" style="color:black;">
 ●CAPTCHA PROJECT  
 </font> <font size="5em"> (Aug,2020 - Aug,2020) </font>
 <img src="/images/fulls/captcha2.jpg" class="image-img" width = "800" ><br>
 <br><font size="6em" style="color:black;">
-● <u>Wireless wearable health sensor</u>: A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals  <br>
-</font> <font size="5em"> LU Research Group Undergraduate Research Assistant, University of Texas at Austin (AUG,2019 - Dec,2019)</font><br>
+● Wireless wearable health sensor</font><font size="5em"> (Aug,2019 - Dec,2019)</font><br><font size="5em" style="color:black;"> A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals  <br>
+</font> <font size="5em"> LU Research Group Undergraduate Research Assistant, University of Texas at Austin</font><br>
 <img src="/images/fulls/LU.jpg" class="image-img" width="175" height="250">
 <hr style="height:3px">
 
