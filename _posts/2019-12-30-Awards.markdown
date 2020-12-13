@@ -5,7 +5,7 @@ title: <font size="6em"><font style="color:Dodgerblue;;"> AWARDS AND SCHOLARSHIP
 <img src="/images/fulls/Awards.jpg" class="fit image">
 <hr style="height:3px">
 
-<font size="5em" style="color:black;">
+<font size="4em" style="color:black;">
 •	Minister Award from Ministry of Science and ICT, Korea - Top 0.52% (2 Million KRW) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Dec,2020)<br>
 •	The Right Hands scholarship (100% Tuition for 4 semesters) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Mar,2019 – Dec,2020)<br>
 •	Industry-University Practical Research Competition Grand Prize (2 Million KRW) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Nov,2020)<br>
