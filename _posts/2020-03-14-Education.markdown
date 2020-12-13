@@ -1,15 +1,15 @@
 ---
 layout: post
-title: <font size="7em"> <font style="color:Dodgerblue;"> EDUCATION </font></font>
+title: <font size="6em"> <font style="color:Dodgerblue;"> EDUCATION </font></font>
 ---
-<br>
-<font size="6em" style="color:black; line-height:50%;">Hanyang Universuty, Seoul &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5em">(2014 - 2021)</font><br></font><font size="4em" style="color:black; line-height:1.6;">B.S. in Electronic Engineering & Biomedical Engineering<br></font>
-<font size="6em" style="color:black; line-height:50%;">University of Texas at Austin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5em">(2019 - 2020)</font><br></font><font size="4em" style="color:black; line-height:1.6;">Undergraduate Exchange Student in Electrical & Computer Engineering</font>
+
+<font size="5em" style="color:black; line-height:50%;">Hanyang Universuty, Seoul &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="4em">(2014 - 2021)</font><br></font><font size="4em" style="color:black; line-height:1.6;">B.S. in Electronic Engineering & Biomedical Engineering<br></font>
+<font size="5em" style="color:black; line-height:50%;">University of Texas at Austin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="4em">(2019 - 2020)</font><br></font><font size="4em" style="color:black; line-height:1.6;">Undergraduate Exchange Student in Electrical & Computer Engineering</font>
 
 
 <br>
 <br>
-<img src="/images/fulls/Edu.jpg" class="image-img" width="1000" height="350"><br>
+<img src="/images/fulls/Edu.jpg" class="image-img" width="950" height="350"><br>
 <br><br>
 <img src="/images/fulls/Edu2.jpg" class="image-img" width="950" height="300"><br>
 <hr style="height:3px">
@@ -47,9 +47,10 @@ Undergraduate Exchange Student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <br>
 <br>
 <br>
-<font size="7em">
-Language Skills
-</font>
+<font size="6em;" style="color:black;">
+Language Skills<br>
+</font><br>
+<font style="color:black;">
 <table style="width:100%">
   <tr>
 
@@ -76,5 +77,6 @@ Language Skills
     <td>HSK : Level 4</td>
     <td>Feb/11/2020</td>
   </tr>  
-</table><br>
+</table>
+</font><br>
 <br>

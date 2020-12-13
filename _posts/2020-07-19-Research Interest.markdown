@@ -1,9 +1,9 @@
 ---
 layout: post
-title: <font size="7em"> <font style="color:Dodgerblue;"> RESEARCH &nbsp;INTEREST </font></font>
+title: <font size="6em"> <font style="color:Dodgerblue;"> RESEARCH &nbsp;INTEREST </font></font>
 ---
 ---
-<font size="5em" style="color:black;"><font size="6em" style="color:black;">Human-Computer Interaction (HCI), Sensing Systems, and Ubiquitous Computing.<br></font>
+<font size="4em" style="color:black;"><font size="5em" style="color:black;">Human-Computer Interaction (HCI), Sensing Systems, and Ubiquitous Computing.<br></font>
 My research objective is to develop devices that allow computers to acknowledge users’ intention along with the world around them, and use this information to contribute to human wellbeing and health.  </font>
 <!--
 Current smart devices and health monitoring devices have a limited understanding of the users (e.g., what the user is doing, how they feel) and have limited interaction (e.g., touch, typing). If they can recognize user's daily activity and emotion, these collected data over time will become a personal health record, which can be used to prevent or monitor diseases. Also, this understanding of the user will enable various interactions (\emph{e.g.}, mood therapy, medication intake notification, overall home care). Therefore, I am aspired to enhance input on computing devices by developing and implementing smart sensing systems for them, to augment human health and wellbeing.
