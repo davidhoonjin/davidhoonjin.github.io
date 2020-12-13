@@ -5,7 +5,7 @@ title: <font size="7em"> <font style="color:Dodgerblue;"> RESEARCH &nbsp;INTERES
 ---
 <font size="5em" style="color:black;">My research interests lies in the area of <u>HUMAN COMPUTER INTERACTION (HCI), SENSING SYSTEMS, and UBIQUITOUS COMPUTING</u>:
 My research objective is to develop devices that allow computers to acknowledge users’ intention along with the world around them, and use this information to contribute to human wellbeing and health.  </font><br>
-<img src="/images/fulls/10_1.jpg" class="image-img" width="800">
+
 
 <!--
 Current smart devices and health monitoring devices have a limited understanding of the users (e.g., what the user is doing, how they feel) and have limited interaction (e.g., touch, typing). If they can recognize user's daily activity and emotion, these collected data over time will become a personal health record, which can be used to prevent or monitor diseases. Also, this understanding of the user will enable various interactions (\emph{e.g.}, mood therapy, medication intake notification, overall home care). Therefore, I am aspired to enhance input on computing devices by developing and implementing smart sensing systems for them, to augment human health and wellbeing.
