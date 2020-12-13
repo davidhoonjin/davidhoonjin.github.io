@@ -1,23 +1,22 @@
 ---
 layout: post
-title: <font size="7em"> <font style="color:Dodgerblue;">RESEARCH & PROJECTS      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <= Click </font></font>
+title: <font size="7em"> <font style="color:Dodgerblue;">RESEARCH & PROJECTS      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></font>
 date: 2020-02-03
 ---
 <br>
-<font size="6em" style="color:black;">●BCI As an Emotional Assistant</font><font size="5em">(Feb,2020 -)</font><br><font size="5em" style="color:black;">A system that classifies the user's emotional state, and gives feedback when needed.</font><br><font size="5em" style="color:black;">Target Conference : IMWUT 2022</font><br>
-<img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
-<font size="6em" style="color:black;">●Sensing Soft Robot (Silicon Finger with PVDF sensor)</font><font size="5em">(Mar,2020 - Nov,2020)</font><br><font size="5em" style="color:black;">Soft finger <!--automatically controlling grasping force based on it's tactile sensor   Polyvinylidene fluoride (PVDF) piezoelectric sensor embedded into the silicone finger enabled to--> sensing the bending status, touch, grip force, slip, and surface texture. This made it possible for the finger to grip an object automatically with appropriate force that can be applied to biomedical application, and industrial application.   </font><br><font size="5em" style="color:black;">Target Conference : IROS 2021</font><br>
-<!--{% include youtube.html id="YDlgXynNdxY" %}-->
+<font size="6em" style="color:black;">●Sensing Soft Robot (Silicon Finger with PVDF sensor)</font><font size="5em">(Mar,2020 - Nov,2020)<br></font><font size="5em" style="color:black;">Soft finger <!--automatically controlling grasping force based on it's tactile sensor   Polyvinylidene fluoride (PVDF) piezoelectric sensor embedded into the silicone finger enabled to--> sensing the bending status, touch, grip force, slip, and surface texture. This made it possible for the finger to automatically control the grip force without visual information. This can be applied to biomedical application, and industrial application.   </font><br><font size="5em" style="color:black;">-Funded by National Research Foundation of Korea & Ministry of Science and ICT<br> -<u>Won Minister of Science and ICT Award in Practical Research Competition (2 Million KRW)</u><br>-Target Conference : IROS 2021<br></font>
 <iframe width="793" height="656" src="https://www.youtube.com/embed/4RQtQQPaJjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<br><font size="6em" style="color:black;">
-●CAPTCHA PROJECT  
-</font> <font size="5em"> (Aug,2020 - Aug,2020) </font>
+<font size="6em" style="color:black;">●BCI As an Emotional Assistant</font><font size="5em">(Feb,2020 -)<br></font><font size="5em" style="color:black;">To make computers more empathetic and obliging to the mental wellness of users, currently developing a real-time emotion recognizing system that enables a computer to sense the user’s emotional state with around 90% accuracy, and controls the peripheral environment for their emotional recovery.</font><br><font size="5em" style="color:black;">-Target Conference : IMWUT 2022</font><br>
+<img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
+<br>
+<font size="6em" style="color:black;">
+●CAPTCHA PROJECT</font> <font size="5em"> (Aug,2020 - Aug,2020) <br></font><font size="5em" style="color:black;">A system that can read distorted text images</font>
 <img src="/images/fulls/captcha2.jpg" class="image-img" width = "800" ><br>
 <br><font size="6em" style="color:black;">
-● Wireless wearable health sensor</font><font size="5em"> (Aug,2019 - Dec,2019)</font><br><font size="5em" style="color:black;"> A Chest-Laminated Ultrathin and Stretchable E-Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals  <br>
+● Wireless Chest-Laminated Ultrathin and Stretchable E-Tattoo</font><font size="5em"> (Aug,2019 - Dec,2019)</font><br><font size="5em" style="color:black;"> A wireless wearable device that can perform synchronous electrocardiogram and seismocardiography measurements and extract various cardiac time intervals including systolic time interval (STI) to track heart health.<br>
 </font> <font size="5em"> LU Research Group Undergraduate Research Assistant, University of Texas at Austin</font><br>
-<img src="/images/fulls/LU.jpg" class="image-img" width="175" height="250">
+<!--<img src="/images/fulls/LU.jpg" class="image-img" width="175" height="250">-->
 <hr style="height:3px">
 
 
@@ -166,7 +165,7 @@ Computer monitors the bending status, and together with microcontroller, finger 
 <br>
 <br>
 <br>
-<hr style="height:3px">
+<hr style="height:3px;">
 
 
 

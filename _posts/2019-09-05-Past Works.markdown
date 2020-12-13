@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="7em"> <font style="color:Dodgerblue;"> OTHER EXPERIENCES   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <= Click </font></font>
+title: <font size="7em"> <font style="color:Dodgerblue;"> OTHER EXPERIENCES   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   </font></font>
 categories: update
 ---
 <br><font size="6em" style="color:black;">
