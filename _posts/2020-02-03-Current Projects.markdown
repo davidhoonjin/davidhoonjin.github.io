@@ -29,20 +29,19 @@ date: 2020-02-03
  <div style="float:right;">
 <h><font size="5em">Computational Neuro Engineering(CoNE) LAB</font><br>
 <br></h></div><br>
-Target Conference : IMWUT 2021/2022<br>
 <font size="5em" style="color:black;">
 <br>
 <font size="5em">
 Target Conference : IMWUT 2021/2022<br>
-<u>Motivation & Idea:</u> These days more and more people are suffering from depression, stress and mental illness. Most of these symptoms are caused by continuously accumulated emotional stresses. If I could develop an intelligent system that can interact with human and help the user to bring unhealthy emotional state to normal state(or even desired state), it will make our life better. Also, people tend to spend more time with Electronic devices and less with human beings so it's about time for the computers to care our mental health too.<br><br></font>
+<u>Motivation & Idea:</u> These days more and more people are suffering from depression, stress and mental illness. Listening to the news about the people suffering depression due to COVID-19 quarantine, I was motivated to develop a system to help them. Also it's about time for the computers to care our mental health too.<br><br></font>
 
 <font size="5em">
-<u>Solution:</u> Drawing from the "Valence-Arousal Model", we could build a system that measures bio-signals(EEG, PPG, GSR) to recognize the “inner” emotion (as humans could control their facial expressions). If it's classified as negative valence, positive stimuli such as music or colored lights could help bring the user's emotion back to the desired state. <br><br>
-<u>Method:</u> Through experiment, collect EEG and GSR data and epoch it after signal processing. I extracted features from them and built a classification model with SVM. Out of "n" number of windows in a row, system counts how many windows(m) are classified as positive or negative valence. If the system returns negative valence, it controls surrounding environments to bring the user's emotion back. </font>
+<u>Solution:</u> Drawing from the "Valence-Arousal Model", we could build a system that measures bio-signals(EEG, PPG, GSR) to recognize the “inner” emotion (as humans could control their facial expressions). If it's classified as negative valence, provide feedback (e.g., playing music or controlling lighting conditions) to help bring the user's emotion back to the desired state. <br><br>
+<u>Method:</u> Through experiment, collect EEG, PPG and GSR data, then epoch it after signal processing. I extracted features from them and built a classification model with SVM. Out of "n" number of windows in a row, system counts how many windows(m) are classified as positive or negative valence. If determined as negative valence, the system controls surrounding environments. </font>
 </font><br>
 <br>
 
-<img src="/images/fulls/bci1.jpg" class="image-img" width = "800"><br>
+<img src="/images/fulls/bci1.jpg" class="image-img" width = "800"><br><font size="5em" style="color:black;">(Left) Overall classification accuracy, (Right) Accuracy per training data Length.</font><br>
 <img src="/images/fulls/bci2.jpg" class="image-img" width = "800"> <br>
 <img src="/images/fulls/bci3.jpg" class="image-img" width = "800"> <br>
 

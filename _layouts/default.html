@@ -28,18 +28,13 @@
       <a href="{{ site.url }}" class="image avatar"><img class="editable" src="/images/avatar.jpg" alt="{{ site.author.name }}"></a>
       <h1 class="editable"><strong><font size="5em">Hi, I am </font> <font size="7em" style="color:Dodgerblue">Hoon Jin Jung</font><br>
 				<font size="5em"> -An Engineer Struggling To Make The World a Better Place. <br></font>
-			<font size="5em"> -I am currently preparing to join a Ph.D program.</font><br>
+			<font size="5em"> -I am currently preparing to join a Ph.D program.</font><br><br>
+
 			<li><a href="https://davidhoonjin.github.io/2020/03/14/Education/" style="font-size:15px; border-color:gainsboro"><font size="5em" style="color:Dodgerblue">EDUCATION</font></a></li>
 			<li><a href="https://davidhoonjin.github.io/2020/02/03/Current-Projects/" style="font-size:15px; border-color:gainsboro"><font size="5em" style="color:Dodgerblue">PROJECTS</font></a></li>
-			<li><a href="https://davidhoonjin.github.io/2018/01/30/Awards/" style="font-size:15px; border-color:gainsboro"><font size="5em" style="color:Dodgerblue">HONNORS & AWARDS</font></a></li>
-		</a></strong>
-    </header>1
-
-    {{ content }}
-
-    <footer id="footer">
-      <p class="editor-link"><a href="cloudcannon:collections/_data/social.yml" class="button"><strong>&#9998;</strong> Update Social Icons</a></p>
-      <ul class="icons">
+			<li><a href="https://davidhoonjin.github.io/2019/12/30/Awards/" style="font-size:15px; border-color:gainsboro"><font size="5em" style="color:Dodgerblue">HONNORS & AWARDS</font></a></li>
+			<br>
+			<ul class="icons">
         {% for account in site.data.social %}
 				<!--
 					<li>
@@ -66,7 +61,13 @@
 				</li>
         {% endif %}
       </ul>
+		</a></strong>
+    </header>1
 
+    {{ content }}
+
+    <footer id="footer">
+      <p class="editor-link"><a href="cloudcannon:collections/_data/social.yml" class="button"><strong>&#9998;</strong> Update Social Icons</a></p>
     </footer>
 
 		<script src="/js/jquery.min.js"></script>
