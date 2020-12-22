@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="6em"> <font style="color:Dodgerblue; font-family:"Gilroy Extra Bold",Gilroy;"> RESEARCH INTEREST </font></font>
+title: <font size="6" style="color:Dodgerblue; font-family:'Gilroy Extra Bold', Gilroy;"> RESEARCH INTEREST </font>
 ---
 ---
 <font size="4em" style="color:black;"><font size="5em" style="color:black;">Human-Computer Interaction (HCI), Sensing Systems, and Ubiquitous Computing.<br></font>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="6em"> <font style="color:Dodgerblue; font-family:"Gilroy Extra Bold",Gilroy;"> ABOUT ME (NONACADEMIC)</font></font>
+title: <font size="6em"> <font style="color:Dodgerblue; font-family:'Gilroy Extra Bold', Gilroy;"> ABOUT ME (NONACADEMIC)</font></font>
 categories: update
 ---
 <img src="/images/fulls/TRC.jpg" class="image-img" width="600" height="450">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="6em"> <font style="color:Dodgerblue; font-family:"Gilroy Extra Bold",Gilroy;"> OTHER EXPERIENCES   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   </font></font>
+title: <font size="6em"> <font style="color:Dodgerblue; font-family:'Gilroy Extra Bold', Gilroy;"> OTHER EXPERIENCES   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   </font></font>
 categories: update
 ---
 <br><font size="5em" style="color:black;">

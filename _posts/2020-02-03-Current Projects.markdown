@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="6em"> <font style="color:Dodgerblue; font-family:"Gilroy Extra Bold",Gilroy;">RESEARCH & PROJECTS      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></font>
+title: <font size="6em"> <font style="color:Dodgerblue; font-family:'Gilroy Extra Bold', Gilroy;">RESEARCH & PROJECTS      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></font>
 date: 2020-02-03
 ---
 <br>
