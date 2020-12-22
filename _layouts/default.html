@@ -10,7 +10,7 @@
 		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
 		<!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">
+		<!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">-->
 		<link rel="stylesheet" href="/css/main.css">
 		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
 
@@ -25,42 +25,39 @@
 
 	<body id="top">
     <header id="header">
-      <a href="{{ site.url }}" class="image avatar"><img class="editable" src="/images/avatar.jpg" alt="{{ site.author.name }}"></a>
-      <h1 class="editable"><strong><font size="4em">Hi, I am </font> <font size="6em" style="color:Dodgerblue">Hoon Jin Jung</font><br>
-				<font size="4em"> -An Engineer Struggling To Make The World a Better Place. <br></font>
-			<font size="4em"> -I am currently preparing to join a Ph.D program.</font><br><br>
-
-			<li><a href="https://davidhoonjin.github.io/2020/03/14/Education/" style="font-size:15px; border-color:gainsboro"><font size="5em" style="color:Dodgerblue">EDUCATION</font></a></li>
-			<li><a href="https://davidhoonjin.github.io/2020/02/03/Current-Projects/" style="font-size:15px; border-color:gainsboro"><font size="5em" style="color:Dodgerblue">PROJECTS</font></a></li>
-			<li><a href="https://davidhoonjin.github.io/2019/12/30/Awards/" style="font-size:15px; border-color:gainsboro"><font size="5em" style="color:Dodgerblue">HONNORS & AWARDS</font></a></li>
-			<br>
-			<ul class="icons">
-        {% for account in site.data.social %}
-				<!--
+      <a href="{{ site.url }}" width="200"><img class="editable" style="
+border: 3px solid black;
+border-radius: 90px;
+" src="/images/avatar.jpg" alt="{{ site.author.name }}" width="200"></a>
+      <h1 class="editable"><strong><span style = " font-size:1.5em;  color: Dodgerblue; line-height: 1; font-family:"Gilroy Extra Bold",Gilroy;">Hoon Jin Jung</span><br>
+			<!--<font size="4em"><P style=" color:white; line-height: 120%;"> -I am a prospective Ph.D. applicant.</P></font>-->
+				<ul class="icons">
+	        {% for account in site.data.social %}
+					{% endfor %}
+	        {% if site.author.email %}
 					<li>
-						<a {% if account.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=account.link %}" {% if account.social_icon %}class="icon fa-{{ account.social_icon | slugify }}"{% endif %}>
-              <span class="label">{{ account.name }}</span>
-						</a>
+	          <a href="{{ site.url }}" i class="fa fa-home"style="font-size:20px;color:white;line-height: 20%;"></i>
+	            <span class="label"></span>
+	          </a>
+	        </li>
+	        <li>
+	          <a href="mailto:davidhoonjin@gmail.com" i class="icon fa-envelope-o"style="font-size:13px;line-height: 20%;;color:white"></i>
+	            <span class="label">Email</span>
+	          </a>
+	        </li>
+					<li>
+						<a href="/images/CV.pdf" target="_blank"><font size="4em"><u><b><p style="color:white;line-height: 20%;">CV</p></b></u></font></a>
+						<span class="label"></span>
 					</li>
--->
-				{% endfor %}
-        {% if site.author.email %}
-				<li>
-          <a href="{{ site.url }}" i class="fa fa-home"style="font-size:38px;color:white"></i>
-            <span class="label"></span>
-          </a>
-        </li>
-        <li>
-          <a href="mailto:davidhoonjin@gmail.com" i class="icon fa-envelope-o"style="font-size:24px;color:white"></i>
-            <span class="label">Email</span>
-          </a>
-        </li>
-				<li>
-					<a href="/images/CV.pdf" target="_blank"><font size="6.5em"><u><b><p style="color:white;">CV</p></b></u></font></a>
-					<span class="label"></span>
-				</li>
-        {% endif %}
-      </ul>
+	        {% endif %}
+					</ul>
+					<font size="5em" style="color:Dodgerblue; line-height: 120%; font-family:"Gilroy Extra Bold", Gilroy; "><li><a href="https://davidhoonjin.github.io/2020/03/14/Education/" style="font-size:19px; border-color:gainsboro">EDUCATION</a></li>
+					<li><a href="https://davidhoonjin.github.io/2020/02/03/Current-Projects/" style="font-size:19px; border-color:gainsboro">PROJECTS</a></li>
+					<li><a href="https://davidhoonjin.github.io/2019/12/30/Awards/" style="font-size:19px; border-color:gainsboro">HONNORS & AWARDS</a></li></font>
+
+
+
+
 		</a></strong>
     </header>1
 
