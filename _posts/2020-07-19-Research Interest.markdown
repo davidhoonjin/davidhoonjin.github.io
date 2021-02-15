@@ -5,6 +5,14 @@ title: <font size="6" style="color:Dodgerblue; font-family:'Gilroy Extra Bold', 
 ---
 <font size="4em" style="color:black;"><font size="5em" style="color:black;">Human-Computer Interaction (HCI), Sensing Systems, and Ubiquitous Computing.<br></font>
 My research objective is to develop devices that allow computers to acknowledge users’ intention along with the world around them, and use this information to contribute to human wellbeing and health.  </font>
+<br>
+<br>
+<br>
+<font size="4em" style="color:black;"><font size="5em" style="color:black;">News<br></font><br>
+● <a href="http://www.newshyu.com/news/articleView.html?idxno=1001225">Won the Minister of Science and ICT Award (grand prize) in a Korea national practical research competition (X-CORPS Festival).</a> -Dec.2020<br>
+● Won the grand prize in Hanyang University research competition (HX-CORPS Festival). -Nov.2020.<br>
+● Received The Right Hands scholarship (100% Tuition for 4 semesters). -March.2019. <br>
+
 <!--
 Current smart devices and health monitoring devices have a limited understanding of the users (e.g., what the user is doing, how they feel) and have limited interaction (e.g., touch, typing). If they can recognize user's daily activity and emotion, these collected data over time will become a personal health record, which can be used to prevent or monitor diseases. Also, this understanding of the user will enable various interactions (\emph{e.g.}, mood therapy, medication intake notification, overall home care). Therefore, I am aspired to enhance input on computing devices by developing and implementing smart sensing systems for them, to augment human health and wellbeing.
 
