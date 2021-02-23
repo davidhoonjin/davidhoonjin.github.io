@@ -9,7 +9,7 @@ title: <font size="6em"> <font style="color:Dodgerblue; font-family:'Gilroy Extr
 
 <br>
 <br>
-<img src="/images/fulls/Edu.jpg" class="image-img" width="950" height="350"><br>
+<img src="/images/fulls/Edu3.jpg" class="image-img" width="940" height="310"><br>
 <br><br>
 <img src="/images/fulls/Edu2.jpg" class="image-img" width="950" height="300"><br>
 <hr style="height:3px">
@@ -22,7 +22,7 @@ title: <font size="6em"> <font style="color:Dodgerblue; font-family:'Gilroy Extr
 <font size="5em" style="color:black;">
 ● Hanyang University, Seoul Korea(Republic of) <br>
 ● Bachelor of Biomedical Engineering (2nd Major) <br>
-● Technical GPA : 3.87/4.00 (Overall GPA : 3.79/4.00)<br>
+● Technical GPA : 3.89/4.00 (Overall GPA : 3.86/4.00)<br>
 ● Upper Division GPA : 4.00/4.00 <br>
 ● National Science and Technology Scholarship <br>
 ● The Right Hands Scholarship <br></font>
