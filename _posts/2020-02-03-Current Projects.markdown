@@ -4,9 +4,9 @@ title: <font size="6em"> <font style="color:Dodgerblue; font-family:'Gilroy Extr
 date: 2020-02-03
 ---
 <br>
-<font size="5em" style="color:black;">●Sensing Soft Robot (Silicon Finger with PVDF sensor)</font><font size="4em">(Mar,2020 - Nov,2020)<br></font><font size="4em" style="color:black;">Soft finger <!--automatically controlling grasping force based on it's tactile sensor   Polyvinylidene fluoride (PVDF) piezoelectric sensor embedded into the silicone finger enabled to--> sensing the bending status, touch, grip force, slip, and surface texture. This made it possible for the finger to automatically control the grip force without visual information. This can be applied to biomedical application, and industrial application.   </font><br><font size="4em" style="color:black;">-Funded by National Research Foundation of Korea & Ministry of Science and ICT<br> -<u>Won Minister of Science and ICT Award in Practical Research Competition (2 Million KRW)</u><br>-Target Conference : IROS 2021<br></font>
+<font size="5em" style="color:black;">●Sensing Soft Robot (Silicon Finger with PVDF sensor)</font><font size="4em">(Mar,2020 - Nov,2020)<br></font><font size="4em" style="color:black;">Soft finger <!--automatically controlling grasping force based on it's tactile sensor   Polyvinylidene fluoride (PVDF) piezoelectric sensor embedded into the silicone finger enabled to--> sensing the bending status, touch, grip force, slip, and surface texture. This made it possible for the finger to automatically control the grip force without visual information. This can be applied to biomedical application, and industrial application.   </font><br><font size="4em" style="color:black;">-Funded by National Research Foundation of Korea & Ministry of Science and ICT<br> -<u>Won Minister of Science and ICT Award in Practical Research Competition (2 Million KRW)</u><br>-Target Journal : Soft Robotics(SoRo) -IF:6.16 <br></font>
 <iframe width="793" height="656" src="https://www.youtube.com/embed/4RQtQQPaJjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+<br> <img src="/images/fingers/new/self_sensing.jpg" class="image-img" width = "800"><br>
 <font size="5em" style="color:black;">●BCI As an Emotional Assistant</font><font size="4em">(Feb,2020 -)<br></font><font size="4em" style="color:black;">To make computers more empathetic and obliging to the mental wellness of users, currently developing a real-time emotion recognizing system that enables a computer to sense the user’s emotional state with around 90% accuracy, and controls the peripheral environment for their emotional recovery.</font><br><font size="4em" style="color:black;">-Target Conference : IMWUT 2022</font><br>
 <img src="/images/fulls/09_1.jpg" class="image-img" width = "800"><br>
 <br>
@@ -154,10 +154,13 @@ function carousel() {
 By monitoring the sensor output, and together with microcontroller, finger controls the grasping force automatically by stop inflating when it has grasped the item with enough force, based on its tactile senses. Also, if the gripping object slips, it applies additional force.</font>
 <hr style="height:3px">
 
-<h1 style="color:black;"><font size="5em"> Moreover, with the same sensor, surface texture sensing is also possible. </font></h1><br>
+<h1 style="color:black;"><font size="5em"> Moreover, the same finger was able sense the surface texture of the clothes. (With motorized stage) </font></h1><br>
 <img src="/images/fingers/texture1.jpg" class="image-img" width="900"><br>
-<img src="/images/fingers/texture2.jpg" class="image-img" width="900">
-<font size="4em" style="color:black;">↑ By attaching biomimetic fingerprint, surface texture detecting is possible.<br> </font>
+<img src="/images/fingers/texture2.jpg" class="image-img" width="900"><br><br>
+<img src="/images/fingers/new/finger_measure_all.jpg" class="image-img" width = "800"><br>
+<font size="4em" style="color:black;">↑ By attaching biomimetic fingerprint, surface texture detecting is possible.<br> </font><br>
+<h1 style="color:black;"><font size="5em">  Finger was able to sense the surface texture of the clothes <font size="5em" style="color:red;">ITSELF</font>. </font></h1><br>
+<img src="/images/fingers/new/self_sensing.jpg" class="image-img" width = "800"><br>
 
 <hr style="height:3px"><br>
 <h1 style="color:black;"><font size="5em"><u> Connecting the soft finger to an soft arm</u></font></h1><br>
