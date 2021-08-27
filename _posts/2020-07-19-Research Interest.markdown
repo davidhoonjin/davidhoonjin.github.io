@@ -9,6 +9,7 @@ My research objective is to develop devices that allow computers to acknowledge 
 <br>
 <br>
 <font size="4em" style="color:black;"><font size="5em" style="color:black;">News<br></font>
+● Joined <a href="https://makinteract.kaist.ac.kr/">Makinteract</a> Lab, advised by Professor Andrea Bianchi - Industrial Design, KAIST(Korea Advanced Institute of Science and Technology) -Aug.2021.<br>
 ● <a href="http://www.newshyu.com/news/articleView.html?idxno=1001225">Won the Minister of Science and ICT Award (grand prize) in a Korea national practical research competition (X-CORPS Festival).</a> -Dec.2020<br>
 ● Won the grand prize in Hanyang University research competition (HX-CORPS Festival). -Nov.2020.<br>
 ● Received The Right Hands scholarship (100% Tuition for 4 semesters). -March.2019. <br>
