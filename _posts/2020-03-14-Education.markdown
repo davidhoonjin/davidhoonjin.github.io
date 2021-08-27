@@ -3,12 +3,15 @@ layout: post
 title: <font size="6em"> <font style="color:Dodgerblue; font-family:'Gilroy Extra Bold', Gilroy;"> EDUCATION </font></font>
 ---
 
+<font size="5em" style="color:black; line-height:50%;">KAIST(Korea Advanced Institute of Science and Technology) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="4em">(2021 -)</font><br></font><font size="4em" style="color:black; line-height:1.6;">M.S. in Industrial Design<br></font>
 <font size="5em" style="color:black; line-height:50%;">Hanyang Universuty, Seoul &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="4em">(2014 - 2021)</font><br></font><font size="4em" style="color:black; line-height:1.6;">B.S. in Electronic Engineering & Biomedical Engineering<br></font>
 <font size="5em" style="color:black; line-height:50%;">University of Texas at Austin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="4em">(2019 - 2020)</font><br></font><font size="4em" style="color:black; line-height:1.6;">Undergraduate Exchange Student in Electrical & Computer Engineering</font>
 
 
 <br>
 <br>
+<img src="/images/fulls/Edu4.jpg" class="image-img" width="940" height="150">
+ <br><br>
 <img src="/images/fulls/Edu3.jpg" class="image-img" width="940" height="310"><br>
 <br><br>
 <img src="/images/fulls/Edu2.jpg" class="image-img" width="950" height="300"><br>
